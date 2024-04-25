@@ -1,4 +1,4 @@
-#   Program to pritn current wind direction from api Open Meteo
+#   Program to print current wind direction from api Open Meteo
 #   Author:     Daniel Mc Donagh
 
 
@@ -15,4 +15,4 @@ with open("currentwinddir10m.json", "w") as fp:         # Opens Json file in wri
 current = data["current"]                               # Retrieves object current from data
 winddir10m = current["wind_direction_10m"]              # Retrieves object winddir10m from current
 
-print(winddir10m)
+print(winddir10m,chr(176))
