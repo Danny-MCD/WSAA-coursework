@@ -11,8 +11,8 @@ The repository contains two main folders assignments and labs. Along with a giti
 ## Assignments Description
 ---
 ### Assignment 01 : Current Weather
-The assignment is to write a program called currentweather.py that will print out the current temperature on the console (and only the temperature) based on the latitude and longitude values given tot he api.
-Additional marks given for pritning out the current wind direction (10m) as well.
+The assignment is to write a program called currentweather.py that will print out the current temperature on the console (and only the temperature) based on the latitude and longitude values given to the api.
+Additional marks given for printing out the current wind direction (10m) as well.
 
 ### Assignment 02 : Quiz on HTTP and URLs
 This assignment was a repeatable short quiz on HTTP and URLs that was completed via the ATU moodle page for this module.
